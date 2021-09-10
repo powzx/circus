@@ -1,4 +1,4 @@
-package circus.Animal;
+package circus.animal;
 
 public class Duck extends Bird {
     @Override

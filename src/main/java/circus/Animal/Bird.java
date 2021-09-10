@@ -1,4 +1,4 @@
-package circus.Animal;
+package circus.animal;
 
 public class Bird extends Animal {
     public void fly() {

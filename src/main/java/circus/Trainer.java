@@ -1,8 +1,8 @@
 package circus;
 
-import circus.Animal.Animal;
-import circus.Animal.Bird;
-import circus.Animal.Duck;
+import circus.animal.Animal;
+import circus.animal.Bird;
+import circus.animal.Duck;
 
 public class Trainer {
     public static void main(String[] args) {
