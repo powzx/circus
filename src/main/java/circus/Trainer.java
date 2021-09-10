@@ -1,3 +1,9 @@
+package circus;
+
+import circus.Animal.Animal;
+import circus.Animal.Bird;
+import circus.Animal.Duck;
+
 public class Trainer {
     public static void main(String[] args) {
         Duck d = new Duck();
